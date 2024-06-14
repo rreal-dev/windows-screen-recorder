@@ -1,0 +1,13 @@
+numpy
+sounddevice
+pyaudio
+mss
+opencv-python
+moviepy
+pyqt5
+PyQtWebEngine
+pypiwin32
+screeninfo
+pyinstaller
+qtawesome
+pywin32
